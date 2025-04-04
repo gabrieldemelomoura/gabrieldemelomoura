@@ -1,4 +1,5 @@
-## Olá! Eu sou o Gabriel e tenho 17 anos😎 
+## Olá! Eu sou o Gabriel e tenho 17 anos😎
+## Sou estudante do terceiro ano do ensino médio do Sesi
 
 -👾 estou me especializando em front-end
 - 👾estudo back-end
