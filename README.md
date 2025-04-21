@@ -2,7 +2,7 @@
 
 **`Aprendiz Desenvolvimento de Sistemas`**
 
-Me chamo Gabriel de Melo Moura, tenho 17 anos e sou de Presidente Prudente-SP. Estou no ultimo ano do Ensino Médio no Sesi, e estou cursando Desenvolvimento de Sistemas no Senai.
+Olá!! Eu me chamo Gabriel de Melo Moura, tenho 17 anos e sou de Presidente Prudente-SP. Estou no ultimo ano do Ensino Médio no Sesi, e estou cursando Desenvolvimento de Sistemas no Senai.
 Estou me especializando em backend.
 
 ---
