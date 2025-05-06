@@ -45,7 +45,7 @@ Estou me especializando em backend.
 <br/>
 <br/>
 
-###
+
 ### 📊 Estatísticas
 
 <p>
@@ -56,7 +56,7 @@ Estou me especializando em backend.
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=danielmagalhaess&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-###
+
 <img 
       align="left" 
       alt="GitHub Stats" 
