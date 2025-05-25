@@ -1,8 +1,8 @@
-#👨‍💻 Gabriel de Melo Moura
+# 👨‍💻 Gabriel de Melo Moura
 
 **`Aprendiz Desenvolvimento de Sistemas`**
 
-Olá!! Eu me chamo Gabriel de Melo Moura, tenho 17 anos e sou de Presidente Prudente-SP. Estou no ultimo ano do Ensino Médio no Sesi, e estou cursando Desenvolvimento de Sistemas no Senai.
+Olá!! Eu me chamo Gabriel de Melo Moura, tenho 17 anos e sou de Presidente Prudente-SP. Estou no último ano do Ensino Médio no Sesi, e estou cursando Desenvolvimento de Sistemas no Senai.  
 Estou me especializando em backend.
 
 ---
@@ -45,6 +45,7 @@ Estou me especializando em backend.
 <br/>
 <br/>
 
+---
 
 ### 📊 Estatísticas
 
@@ -54,14 +55,13 @@ Estou me especializando em backend.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=danielmagalhaess&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=gabrieldemelomoura&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmagalhaess&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldemelomoura&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
