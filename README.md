@@ -35,8 +35,8 @@
 
 ### 📫 Contato
 
-- Email: [seuemail@gmail.com](mailto:melomouragabriel008@gmail.com)  
-- LinkedIn: [Gabriel de Melo Moura](linkedin.com/in/gabriel-de-melo-moura-358451275)  
+- Email: [melomouragabriel008@gmail.com](mailto:melomouragabriel008@gmail.com)  
+- LinkedIn: [linkedin.com/in/gabriel-de-melo-moura-358451275](linkedin.com/in/gabriel-de-melo-moura-358451275)  
 - GitHub: [@gabrieldemelomoura](https://github.com/gabrieldemelomoura)  
 
 ---
