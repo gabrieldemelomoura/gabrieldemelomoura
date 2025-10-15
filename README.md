@@ -33,19 +33,6 @@
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=gabrieldemelomoura&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldemelomoura&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
-
----
-
-
-
-
-
 ### 📫 Contato
 
 - Email: [seuemail@gmail.com](mailto:melomouragabriel008@gmail.com)  
@@ -57,3 +44,16 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 </div>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=gabrieldemelomoura&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldemelomoura&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</p>
+
+---
+
+
