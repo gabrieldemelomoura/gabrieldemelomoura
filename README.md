@@ -9,7 +9,9 @@
   
 ## 
 
-📌Buscando aprimorar meu front-end e back-end  <br> 
+📌Buscando aprimorar meu front-end e back-end  <br>
+
+📌Me especializando em análise de dados e data science 
 
 📌Me formando em Análise e Desenvolvimento de Sistemas no Senai. <br> 
 
