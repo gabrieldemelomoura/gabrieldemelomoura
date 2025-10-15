@@ -7,28 +7,25 @@
 
 ## Sobre Mim
 
-📌 Buscando aprimorar meu **front-end** e **back-end**
-
-📌 Aprimorando meus conhecimentos em **python** 
-
-📌 Me especializando em **análise de dados** e **data science** na DIO 
-
+📌 Buscando aprimorar meu **front-end** e **back-end**  
+📌 Aprimorando meus conhecimentos em **Python**  
+📌 Me especializando em **análise de dados** e **data science** na DIO  
 📌 Me formando em **Análise e Desenvolvimento de Sistemas** no Senai  
-
 📌 Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal  
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="MariaDB" title="MariaDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
-
+<p>
+  <img align="left" alt="HTML" title="HTML" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS" title="CSS" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="left" alt="JavaScript" title="JavaScript" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="Python" title="Python" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="left" alt="Git" title="Git" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="left" alt="MySQL" title="MySQL" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="left" alt="MariaDB" title="MariaDB" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
+</p>
 <br/><br/>
 
 ---
@@ -36,14 +33,8 @@
 ### 📫 Contato
 
 - Email: [melomouragabriel008@gmail.com](mailto:melomouragabriel008@gmail.com)  
-- LinkedIn: [linkedin.com/in/gabriel-de-melo-moura-358451275](linkedin.com/in/gabriel-de-melo-moura-358451275)  
+- LinkedIn: [Gabriel de Melo Moura](https://www.linkedin.com/in/gabriel-de-melo-moura-358451275)  
 - GitHub: [@gabrieldemelomoura](https://github.com/gabrieldemelomoura)  
-
----
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
-</div>
 
 ---
 
@@ -55,5 +46,10 @@
 </p>
 
 ---
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+</div>
+
 
 
