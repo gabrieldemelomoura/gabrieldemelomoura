@@ -7,8 +7,9 @@
 
 ## Sobre Mim
 
-📌 Buscando aprimorar meu **front-end** e **back-end**  
-📌 Me especializando em **análise de dados** e **data science**  
+📌 Buscando aprimorar meu **front-end** e **back-end**
+📌 Aprimorando meus conhecimentos em **python** 
+📌 Me especializando em **análise de dados** e **data science** na DIO 
 📌 Me formando em **Análise e Desenvolvimento de Sistemas** no Senai  
 📌 Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal  
 
