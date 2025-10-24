@@ -14,6 +14,12 @@
 🚀 Sempre em busca de **aprendizado contínuo** e **crescimento profissional**
 
 ---
+## 📫 Contato
+
+📧 **Email:** [melomouragabriel008@gmail.com](mailto:melomouragabriel008@gmail.com)  
+💼 **LinkedIn:** [Gabriel de Melo Moura](https://www.linkedin.com/in/gabriel-de-melo-moura-358451275)  
+🐙 **GitHub:** [@gabrieldemelomoura](https://github.com/gabrieldemelomoura)
+
 
 ## ⚙️ Tecnologias e Ferramentas
 
@@ -46,13 +52,6 @@
 
 ---
 
-## 📫 Contato
-
-📧 **Email:** [melomouragabriel008@gmail.com](mailto:melomouragabriel008@gmail.com)  
-💼 **LinkedIn:** [Gabriel de Melo Moura](https://www.linkedin.com/in/gabriel-de-melo-moura-358451275)  
-🐙 **GitHub:** [@gabrieldemelomoura](https://github.com/gabrieldemelomoura)
-
----
 
 <p align="center">
   <sub>💡 “A cada linha de código, uma nova oportunidade de aprendizado.”</sub>
