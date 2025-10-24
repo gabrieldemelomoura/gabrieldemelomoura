@@ -1,7 +1,5 @@
 # 👨‍💻 Gabriel de Melo Moura
 
----
-
 ## 🧠 Sobre Mim
 
 📌 Buscando aprimorar meu **front-end** e **back-end**  
