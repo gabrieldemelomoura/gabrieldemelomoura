@@ -1,10 +1,5 @@
 # 👨‍💻 Gabriel de Melo Moura
 
-<p align="center">
-  <em>Desenvolvedor em constante evolução, buscando unir boas práticas, performance e design limpo em cada projeto.</em>
-</p>
-
----
 
 ## 🧠 Sobre Mim
 
@@ -50,9 +45,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gabrieldemelomoura&theme=tokyonight&no-bg=true&margin-w=10&margin-h=10" alt="Troféus GitHub" />
 </p>
 
----
 
-
-<p align="center">
-  <sub>💡 “A cada linha de código, uma nova oportunidade de aprendizado.”</sub>
-</p>
