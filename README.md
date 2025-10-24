@@ -3,10 +3,10 @@
 
 ## 🧠 Sobre Mim
 
-🎯 Focado em aprimorar minhas habilidades em **Front-end** e **Back-end**  
-🐍 Aprofundando meus conhecimentos em **Python**  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **Senai**  
-🚀 Sempre em busca de **aprendizado contínuo** e **crescimento profissional**
+- Focado em aprimorar minhas habilidades em **Front-end** e **Back-end**  
+- Aprofundando meus conhecimentos em **Python**  
+- Estudante de **Análise e Desenvolvimento de Sistemas** no **Senai**  
+- Sempre em busca de **aprendizado contínuo** e **crescimento profissional**
 
 ---
 ## 📫 Contato
