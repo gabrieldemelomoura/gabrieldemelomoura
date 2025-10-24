@@ -18,8 +18,7 @@
 
 ## ⚙️ Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=kotlin,bootstrap,nodejs,mysql,git,py,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,bootstrap,nodejs,mysql,git,py,figma&theme=dark)](https://skillicons.dev)
 
 ---
 
