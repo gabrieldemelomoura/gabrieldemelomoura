@@ -1,7 +1,7 @@
 # 👨‍💻 Gabriel de Melo Moura
 
 
-## 🧠 Sobre Mim
+## Sobre Mim
 
 - Focado em aprimorar minhas habilidades em **Front-end** e **Back-end**  
 - Aprofundando meus conhecimentos em **Python**  
@@ -9,14 +9,14 @@
 - Sempre em busca de **aprendizado contínuo** e **crescimento profissional**
 
 ---
-## 📫 Contato
+##  Contato
 
-📧 **Email:** [melomouragabriel008@gmail.com](mailto:melomouragabriel008@gmail.com)  
-💼 **LinkedIn:** [Gabriel de Melo Moura](https://www.linkedin.com/in/gabriel-de-melo-moura-358451275)  
-🐙 **GitHub:** [@gabrieldemelomoura](https://github.com/gabrieldemelomoura)
+ **Email:** [melomouragabriel008@gmail.com](mailto:melomouragabriel008@gmail.com)  
+ **LinkedIn:** [Gabriel de Melo Moura](https://www.linkedin.com/in/gabriel-de-melo-moura-358451275)  
+ **GitHub:** [@gabrieldemelomoura](https://github.com/gabrieldemelomoura)
 
 
-## ⚙️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,bootstrap,nodejs,cypress,flask,mysql,git,py,figma&theme=dark)](https://skillicons.dev)
 
