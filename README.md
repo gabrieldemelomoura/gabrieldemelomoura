@@ -35,7 +35,7 @@ Sou desenvolvedor com foco em **Back-end** e **Front-end**, em constante aprimor
 
 ## 🛠️ Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,cypress,mysql,git,py,django,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,cypress,mysql,git,py,tailwindcss,figma&theme=dark)](https://skillicons.dev)
 
 ---
 
