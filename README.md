@@ -1,11 +1,27 @@
 # 👨‍💻 Gabriel de Melo Moura
 
-## Sobre Mim
 
-- Focado em aprimorar minhas habilidades em **Front-end** e **Back-end**  
-- Aprofundando meus conhecimentos em **Python**  
-- Formado em **Análise e Desenvolvimento de Sistemas** no **SENAI**  
-- Sempre em busca de **aprendizado contínuo** e **crescimento profissional**
+ **Sobre mim**
+ 
+Sou desenvolvedor com foco em **Back-end** e **Front-end**, em constante aprimoramento técnico. Possuo sólida base em **Bancos de dados relacionais e Testes de Software**, sempre buscando aplicar boas práticas e desenvolver soluções eficientes.
+
+**🎓 Formação:**
+
+*Análise e Desenvolvimento de Sistemas — SENAI*
+
+*Cursando Sistemas da Informação — UNOESTE*
+
+**🚀 Principais habilidades:**
+
+* Desenvolvimento Back-end e Front-end
+
+* Banco de Dados Relacional (modelagem e consultas)
+
+* Testes de Software
+
+* Versionamento com Git/GitHub
+
+*Aprendizado contínuo e evolução profissional
 
 ---
 
