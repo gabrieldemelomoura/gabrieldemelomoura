@@ -51,7 +51,7 @@ Sou desenvolvedor com foco em **Back-end** e **Front-end**, em constante aprimor
 ## 🏆 Troféus GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrieldemelomoura&theme=tokyonight&no-bg=true&margin-w=10&margin-h=10" alt="Troféus GitHub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrieldemelomoura&theme=tokyonight&no-bg=true&margin-w=10&margin-h=10"       alt="Troféus GitHub"/>
 </p>
 
 
