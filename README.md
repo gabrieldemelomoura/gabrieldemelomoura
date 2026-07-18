@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-de-melo-moura-358451275">
+  <a href="https://www.linkedin.com/in/gabrielmelomoura/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 
