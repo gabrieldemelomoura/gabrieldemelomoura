@@ -42,7 +42,7 @@ Sou desenvolvedor com foco em **Back-end** e **Front-end**, em constante aprimor
 ### 🧰 Tech Stack
  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,js,html,css,bootstrap,tailwind,nodejs,mysql,cypress,git,figma,py&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,bootstrap,nodejs,mysql,cypress,git,figma,py&theme=dark" alt="Tech stack" />
 </p>
 ---
  
