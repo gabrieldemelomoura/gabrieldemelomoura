@@ -23,7 +23,7 @@
 Sou desenvolvedor focado na construção de aplicações eficientes e bem estruturadas, combinando sólida base em **lógica de programação**, **modelagem de bancos de dados relacionais** e **qualidade de software**.
 
 * 🎓 **Formação:** Sistemas de Informação (UNOESTE) | Análise e Desenvolvimento de Sistemas (SENAI)
-* 🚀 **Foco de Atuação:** Desenvolvimento Back-end, Front-end e Testes de Software
+* 🚀 **Foco de Atuação:** Análise de dados e DevOps
 * 🛠️ **Boas Práticas:** Versionamento com Git, escrita de código limpo e arquitetura de dados
 
 ---
