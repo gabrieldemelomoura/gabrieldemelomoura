@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5D3FD3&height=180&section=header&text=Gabriel%20de%20Melo%20Moura&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 
-  <h3>💻 Desenvolvedor Software | Bacharelado em Sistemas de Informação</h3>
+  
 
+ <h3>💻 Sistemas de Informação | Aspiring Data Scientist & Data Analyst</h3>
   <p>
     <a href="https://www.linkedin.com/in/gabriel-de-melo-moura-358451275">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -23,7 +24,7 @@
 Sou desenvolvedor focado na construção de aplicações eficientes e bem estruturadas, combinando sólida base em **lógica de programação**, **modelagem de bancos de dados relacionais** e **qualidade de software**.
 
 * 🎓 **Formação:** Sistemas de Informação (UNOESTE) | Análise e Desenvolvimento de Sistemas (SENAI)
-* 🚀 **Foco de Atuação:** Análise de dados e DevOps
+* 🚀 **Foco de Atuação:** Ciência de dados e DevOps
 * 🛠️ **Boas Práticas:** Versionamento com Git, escrita de código limpo e arquitetura de dados
 
 ---
@@ -31,18 +32,33 @@ Sou desenvolvedor focado na construção de aplicações eficientes e bem estrut
 
 ### Tech Stack & Ferramentas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,py,html,css,bootstrap,nodejs,mysql,cypress,git,github,figma&perline=6&theme=dark" alt="Tech Stack" />
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,alt="Tech Stack" />
+</p>
+
+**Backend and test**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,py,nodejs,cypress" alt="Tech Stack" />
+</p>
+
+**Database and analysis**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,r,py" alt="Tech Stack" />
+</p>
+
+**DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Tech Stack" />
 </p>
 
 ---
-
 ### 🎯 Foco Atual & Aprendizado
 
 ```javascript
 const gabriel = {
   curso: "Sistemas de Informação (UNOESTE)",
-  estudandoAgora: ["Algoritmos Avançados", "Estruturas de Dados em C", "Engenharia de Software"],
-  proximosPassos: ["C#", ".NET Core"],
-  interesses: ["Desenvolvimento Backend", "Sistemas Distribuídos", "Projetos Colaborativos"]
+  estudandoAgora: ["Algoritmos", "Estruturas de Dados", "Ciência de dados"],
+  proximosPassos: ["R", "Pandas", "NumPy", "Power Bi", "AWS", "Cloud"],
+  interesses: ["Ciência de dados"]
 };
