@@ -44,7 +44,7 @@ Sou desenvolvedor focado na construção de aplicações eficientes e bem estrut
 
 **Database and analysis**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,r,py" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,r,py" alt="Tech Stack" />
 </p>
 
 **DevOps**
